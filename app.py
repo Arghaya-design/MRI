@@ -1,5 +1,5 @@
 import streamlit as st
-import tensorflow_io_gcs_filesystem
+import tensorflow.lite as tflite
 import numpy as np
 from PIL import Image
 
